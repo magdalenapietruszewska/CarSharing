@@ -9,4 +9,4 @@ Project is created with:
 * CSS
 
 
-Click here to view page: https://magdalenapietruszewska.github.io/CarSharing/
+Click here to view page: https://magdalenapietruszewska.github.io/CarSharing-LandingPage/
