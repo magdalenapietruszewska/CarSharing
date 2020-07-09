@@ -1,4 +1,4 @@
-#CAR SHARING - LANDING PAGE:
+# CAR SHARING - LANDING PAGE:
 
 ## About Project 
 The site contains 5 basic elements.
@@ -9,4 +9,4 @@ Project is created with:
 * CSS
 
 
-Click here to view page: https://magdalenapietruszewska.github.io/CarSharing-LandingPage/
+Click here to view page: https://magdalenapietruszewska.github.io/CarSharing/
